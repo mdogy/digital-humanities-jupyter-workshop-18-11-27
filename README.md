@@ -71,6 +71,11 @@ alt="Cute Kitten Video" width="240" height="180" border="10" /></a>
 * Kevin Markham's [data school](https://www.youtube.com/user/dataschool) youtube channel also has good introduction to python for data science
 * Also [DataCamp](https://www.datacamp.com) offers good instruction on data science material
 * For getting a deeper dive on python itself the [interactive how to think like a computer scientist](https://interactivepython.org/courselib/static/thinkcspy/index.html) is very good.
+* Digital humanities oriented tutorials:
+  + [Programming Historian](https://programminghistorian.org/) - novice friendly peer reviewed tutorials
+  + [Digital Humanities Research Institute](https://github.com/DHRI-Curriculum) - workshops developed at The Graduate Center, CUNY
+  + [How to Code in Python 3](https://cuny.manifoldapp.org/projects/how-to-code-in-python-3) by Lisa Tagliaferri 
+
 
 For deeper dives into NLP, image processing, GIS apps, and machine learning there is tons of good stuff out there. I don't have a specific recommendation. Google searching for jupyter notebooks is often good. Also most of the python conferences post very good videos, you can check youtube for pycon, pydata, scipy, and jupytercon. The key python tools to learn are
 
@@ -86,7 +91,7 @@ You can go a long long way with these libraries. Depending on your speciality yo
 
 * Text: nltk, gensim
 * Images: opencv, scikit-image
-* Geography: canopy, xarray, geopandas, shapely
+* Geography/GIS: cartopy, xarray, geopandas, shapely
 * Machine Learning AI: sklearn, keras, pytorch, tensorflow
 
 
@@ -95,5 +100,5 @@ You can go a long long way with these libraries. Depending on your speciality yo
 
 ## Credits
 
-This workshop was developed by Michael Grossberg with extensive help from Hannah Aizenmann.
+This workshop was developed by Michael Grossberg with extensive help from Hannah Aizenman.
 
