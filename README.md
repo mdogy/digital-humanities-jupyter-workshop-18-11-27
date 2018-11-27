@@ -52,7 +52,45 @@ in the terminal.
 * part2-table-data-analysis.ipynb (working with tabular data through python-pandas)
 * part3-three-book-word-analysis.ipynb (down loading texts and working with them)
 
+Note that we somtimes need kittens https://placekitten.com/g/200/150. If we need to embed
+a youtube video in the markdown we will use this code:
+
+```html
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=oHg5SJYRHA0
+" target="_blank"><img src="http://img.youtube.com/vi/8HVWitAW-Qg/0.jpg" 
+alt="Cute Kitten Video" width="240" height="180" border="10" /></a>
+```
+
+
 ## Refrences
+
+* For more on jupyter markdown see the [github markedown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* Datacamp has a good [Jupyter Notebook tutorial](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
+* More comprehensive is the [Jupyter official documentation](https://jupyter-notebook.readthedocs.io/en/latest/)
+* There are many good tutorials for data science on lynda.com (free from the NYPL)
+* Kevin Markham's [data school](https://www.youtube.com/user/dataschool) youtube channel also has good introduction to python for data science
+* Also [DataCamp](https://www.datacamp.com) offers good instruction on data science material
+* For getting a deeper dive on python itself the [interactive how to think like a computer scientist](https://interactivepython.org/courselib/static/thinkcspy/index.html) is very good.
+
+For deeper dives into NLP, image processing, GIS apps, and machine learning there is tons of good stuff out there. I don't have a specific recommendation. Google searching for jupyter notebooks is often good. Also most of the python conferences post very good videos, you can check youtube for pycon, pydata, scipy, and jupytercon. The key python tools to learn are
+
+* numpy (basic matrices/arrays)
+* scipy (stats module)
+* pandas (excel-like table ninjitsu)
+* matplotlib (visualization workhorse)
+* seaborn (nice looking visualizations)
+* requests (for downloading stuff)
+* beautifulsoup (for parsing scraped data)
+
+You can go a long long way with these libraries. Depending on your speciality you may need 
+
+* Text: nltk, gensim
+* Images: opencv, scikit-image
+* Geography: canopy, xarray, geopandas, shapely
+* Machine Learning AI: sklearn, keras, pytorch, tensorflow
+
+
+
 
 
 ## Credits
